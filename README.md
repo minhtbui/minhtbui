@@ -1,1 +1,1 @@
-![Metrics](https://github.com/minhtbui/profile/main/github-metrics.svg)
+![Metrics](https://github.com/minhtbui/profile/blob/main/github-metrics.svg)
